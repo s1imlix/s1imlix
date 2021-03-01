@@ -4,7 +4,7 @@
 ---
 # About me
 - I am currently a high school student.
-- 
+- I'm learning Unity and C#.
 - 🔭 I’m currently working on Minecraft Plugins.
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Unity development.
