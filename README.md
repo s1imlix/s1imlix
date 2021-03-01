@@ -1,6 +1,10 @@
-</center> Hi there 👋 </center>
+# Intro
+### Hi there 👋
+### I'm Slimlix, a student from Tainan, Taiwan. I'm interested in programming and video games.
 ---
-
+# About me
+- I am currently a high school student.
+- 
 - 🔭 I’m currently working on Minecraft Plugins.
 - 🌱 I’m currently learning Java.
 - 🤔 I’m looking for help with Unity development.
