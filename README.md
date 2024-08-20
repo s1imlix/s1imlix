@@ -11,4 +11,4 @@
 - 💬 Ask me about video games!
 - 📫 How to reach me: Slimlix#8842 on Discord
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Slimlix1101)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimlixhsu)](https://github.com/anuraghazra/github-readme-stats)
